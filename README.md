@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## About Me
+
+`elliot_bancroft = {
+Degree : 'Mechanical Engineering (Hons)', University : 'Univerity of Bath', Age : 22, Currently 'Travelling!'
+}`
 <!--
 **elliotbancroft10/elliotbancroft10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

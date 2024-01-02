@@ -8,9 +8,9 @@
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none;"><img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/0e757fb8-1aae-495c-bcad-739197ad552b"</td>
-    <td style="border: none;"><img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/2d018206-8309-49d4-99b3-9069112a0b27"</td>
-    <td style="border: none;"><img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/102ca974-7da1-4fdc-9aac-af49233a4e27"</td>
+    <td style="border: 1px solid white;"><img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/0e757fb8-1aae-495c-bcad-739197ad552b"</td>
+    <td style="border: 1px solid white;"><img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/2d018206-8309-49d4-99b3-9069112a0b27"</td>
+    <td style="border: 1px solid white;"><img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/102ca974-7da1-4fdc-9aac-af49233a4e27"</td>
   </tr>
 </table>
 

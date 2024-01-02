@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/0e757fb8-1aae-495c-bcad-739197ad552b" width="300" height="75" style="margin-bottom: -8px;">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/2d018206-8309-49d4-99b3-9069112a0b27" width="175" height="100">
+  <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/fa1c49cf-7bea-4143-b9dd-353be61d9b91" width="175" height="100">
 &nbsp;
   <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/6f848ae0-84c0-4948-ba9e-36361c968834" width="270" height="125">
 </p>
 
 ### Hi!
 
-I am a Mechanical Engineering graduate and aspiring Data Engineer. 
+I am a Mechanical Engineering graduate and aspiring Data Engineer.
 
 My journey into the world of data and programming started with my University placement year job as a Data Analyst, working on the EDF Hinkley Point C project. As such, I am very proficient in Power BI and Excel, since many of my key responisibilities involved analysing and generating Power BI dashboards for stakeholders across the business. During my time in this role I was also introduced to ELT / ETL data processes, working alongside the Data Department helping with the Master Data Management workstream.  
 

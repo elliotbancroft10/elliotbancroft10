@@ -6,23 +6,6 @@
   <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/102ca974-7da1-4fdc-9aac-af49233a4e27" width="220" height="125">
 </p>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: none;"></td>
-    <td style="border: none;"></td>
-    <td style="border: none;"></td>
-  </tr>
-  <tr>
-    <td colspan="3" style="border-bottom: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/0e757fb8-1aae-495c-bcad-739197ad552b" width="300" height="150"></td>
-    <td style="border: none;"><img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/2d018206-8309-49d4-99b3-9069112a0b27" width="220" height="125"></td>
-    <td style="border: none;"><img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/102ca974-7da1-4fdc-9aac-af49233a4e27" width="220" height="125"></td>
-  </tr>
-</table>
-
-
 ### Hi!
 
 I am a Mechanical Engineering graduate and aspiring Data Engineer. 

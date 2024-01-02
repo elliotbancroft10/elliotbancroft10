@@ -7,7 +7,7 @@
 </p>
 
 |   |   |   |
-|---|---|---|
+|:-:|:-:|:-:|
 | <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/0e757fb8-1aae-495c-bcad-739197ad552b"> | <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/2d018206-8309-49d4-99b3-9069112a0b27"> | <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/102ca974-7da1-4fdc-9aac-af49233a4e27"> |
 
 

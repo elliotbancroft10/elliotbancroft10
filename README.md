@@ -3,7 +3,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/2d018206-8309-49d4-99b3-9069112a0b27" width="175" height="100">
 &nbsp; &nbsp;
-  <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/6f848ae0-84c0-4948-ba9e-36361c968834" width="220" height="125">
+  <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/6f848ae0-84c0-4948-ba9e-36361c968834" width="250" height="125">
 </p>
 
 ### Hi!

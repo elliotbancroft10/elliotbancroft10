@@ -1,6 +1,4 @@
-|First Image|Second Image|
-|:-:|:-:|
-|![First Image]([https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg?h=750&w=1260](https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/0e757fb8-1aae-495c-bcad-739197ad552b))|![Second Image]([https://images.pexels.com/photos/1335115/pexels-photo-1335115.jpeg?h=750&w=1260](https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/2d018206-8309-49d4-99b3-9069112a0b27))|
+![First Image]([https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg?h=750&w=1260](https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/0e757fb8-1aae-495c-bcad-739197ad552b))![Second Image]([https://images.pexels.com/photos/1335115/pexels-photo-1335115.jpeg?h=750&w=1260](https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/2d018206-8309-49d4-99b3-9069112a0b27))
 
 ### Hi!
 

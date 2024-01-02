@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/0e757fb8-1aae-495c-bcad-739197ad552b" width="300" height="75" style="margin-bottom: -8px;">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/fa1c49cf-7bea-4143-b9dd-353be61d9b91" width="175" height="100">
+  <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/02f87d31-e6d8-4ca2-930a-74336ddc7c13" width="175" height="100">
 &nbsp;
   <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/6f848ae0-84c0-4948-ba9e-36361c968834" width="270" height="125">
 </p>

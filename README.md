@@ -1,4 +1,8 @@
-<img width="300" height="75" src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/0e757fb8-1aae-495c-bcad-739197ad552b">  <img width="170" height="100" src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/2d018206-8309-49d4-99b3-9069112a0b27">
+<p align="center">
+  <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/0e757fb8-1aae-495c-bcad-739197ad552b" width="300" height="75">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/elliotbancroft10/elliotbancroft10/assets/142234015/2d018206-8309-49d4-99b3-9069112a0b27" width="300" height="75">
+</p>
 
 ### Hi!
 

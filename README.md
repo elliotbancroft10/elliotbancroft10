@@ -1,4 +1,4 @@
-### Elliot Bancroft
+### Hi!
 
 I am a Mechanical Engineering graduate and aspiring Data Engineer. 
 

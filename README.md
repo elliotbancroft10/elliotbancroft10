@@ -2,7 +2,7 @@
 
 I am a Mechanical Engineering graduate and aspiring Data Engineer. 
 
-My journey into the world of data and programming started with my University placement year job as a Data Analyst, working on the EDF Hinkley Point C project. As such, I am very proficient in Power BI and Excel, since many of my key responisibilities involved analysing and generating Power BI dahsboards for stakeholders across the business. During my time in this role I was also introduced to ELT / ETL data processes, working alongside the Data Department helping with the Master Data Management workstream.
+My journey into the world of data and programming started with my University placement year job as a Data Analyst, working on the EDF Hinkley Point C project. As such, I am very proficient in Power BI and Excel, since many of my key responisibilities involved analysing and generating Power BI dashboards for stakeholders across the business. During my time in this role I was also introduced to ELT / ETL data processes, working alongside the Data Department helping with the Master Data Management workstream.
 
 It's fair to say this was a turning point for me, and in my final year at University, I conducted a research project which aimed to implement a Fourier Neural Operator to predict dynamic CFRC behaviour based on cross-sectional images. This project allowed me to study a vast range of fundamental and ever-evolving ML and DL principles, as well as contributing to the very latest academic work in the field.
 
